@@ -1,9 +1,13 @@
 # Count
 DESCRIPTION:
-The code converts the given paragraph to lowercase and removes all punctuation marks.then splits the paragraph into words and stores them in an array.iterates over the array and counts the number of occurrences of each word.then sorts the array in descending order based on the word counts.finally displays the top three most frequently occurring words in the paragraph.
+This HTML document displays the top 3 most frequently occurring words from a provided paragraph after removing punctuation and converting all text to lowercase.
 
-Steps to Run the Project:
-Save the code in a file with the .js extension, such as word_counter.js.To display the results on a web page, create an HTML file with the code and open it in a web browser.
+How to run the code:
 
-Future Improvements:
-The project can be further enhanced by adding spell checkers and improves or alters some additional resource
+step1:Save the HTML file with .html extension.
+
+step2:Click the "Go Live" button.A new browser window will open, displaying top 3 words.
+
+Future Enhancements:
+
+Implementing user interactivity to allow dynamic paragraph input. Adding the ability to customize the number of top words displayed.
